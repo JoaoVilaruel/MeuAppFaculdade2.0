@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">projetoduda</string>
+    <string name="title_activity_app_navigation">AppNavigation</string>
+    <string name="title_activity_tela_curso">TelaCurso</string>
+    <string name="title_activity_tela_home">TelaHome</string>
+    <string name="title_activity_tela_perfil">TelaPerfil</string>
+    <string name="title_activity_bottom_bar">BottomBar</string>
+    <string name="title_activity_tela_financeiro">TelaFinanceiro</string>
+</resources>
