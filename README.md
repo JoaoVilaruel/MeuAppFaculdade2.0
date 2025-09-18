@@ -9,7 +9,8 @@ O app permite acessar cursos, editar perfil, acompanhar o financeiro com opçõe
 
 <p align="center">
   <img src="docs/Imgs_Telas/telaHome.png" width="250"/>
-  <img src="docs/Imgs_Telas/telaCurso.png" width="250"/>
+  <img src="docs/Img_telas
+/telaCurso.png" width="250"/>
   <img src="docs/Imgs_telas/telaFinaceiro.png" width="250"/>
 </p>
 
