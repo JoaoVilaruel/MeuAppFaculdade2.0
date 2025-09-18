@@ -8,16 +8,15 @@ O app permite acessar cursos, editar perfil, acompanhar o financeiro com opçõe
 ## 📱 Telas do Aplicativo  
 
 <p align="center">
-  <img src="docs/Imgs_Telas/telaHome.png" width="250"/>
-  <img src="docs/Img_telas
-/telaCurso.png" width="250"/>
-  <img src="docs/Imgs_telas/telaFinaceiro.png" width="250"/>
+  <img src="docs/Img_Telas/telaHome.png" width="250"/>
+  <img src="docs/Img_telas/telaCurso.png" width="250"/>
+  <img src="docs/Img_telas/telaFinaceiro.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="Docs/Imgs_telas/telaPerfil.png" width="250"/>
-  <img src="Docs/Imgs_telas/telaEditarPerfil.png" width="250"/>
-  <img src="Docs/Imgs_telas/telaNotas.png" width="250"/>
+  <img src="docs/Img_telas/telaPerfil.png" width="250"/>
+  <img src="docs/Img_telas/telaEditarPerfil.png" width="250"/>
+  <img src="docs/Img_telas/telaNotas.png" width="250"/>
 </p>  
 
 ---
